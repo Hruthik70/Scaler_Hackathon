@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+openai
+pydantic
+pillow
+opencv-python
+manim
+numpy
+requests
